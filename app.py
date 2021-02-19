@@ -6,8 +6,8 @@ app = MultiApp()
 
 # Add all your application here
 app.add_app("Home", home.app)
-app.add_app("assignments", assignments.app)
-app.add_app("schedule", schedule.app)
-app.add_app("syllabus", syllabus.app)
+app.add_app("Assignments", assignments.app)
+app.add_app("Schedule", schedule.app)
+app.add_app("Syllabus", syllabus.app)
 # The main app
 app.run()
