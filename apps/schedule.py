@@ -1,18 +1,12 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
-from data.create_data import create_table
+import csvtomd
 
 def app():
     st.title('Home')
+    with open('markdown/schedule.csv', 'r') as file:
+        table = csvtomd.csv_to_table(file, ',')
+    markdown = csvtomd.md_table(table, padding=2)
+    st.markdown(markdown)
 
-    st.write("This is a sample home page in the mutliapp.")
-    st.write("See `apps/home.py` to know how to use it.")
-
-    st.markdown("### Sample Data")
-    df = create_table()
-    st.write(df)
-
-    st.write('Navigate to `Data Stats` page to visualize the data')
 
 
