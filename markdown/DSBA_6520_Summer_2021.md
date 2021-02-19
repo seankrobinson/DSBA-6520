@@ -4,10 +4,10 @@
 ### Summer I & II 2021
 ### Sean K. Robinson
 ### Contact Information:
-Email: srobi116@uncc.edu
-Twitter: @sean_k_robinson
-Office Hours: End of Class and via [Calendly](calendly.com/seankrobinson)
-Slack: dsba6520summer2021.slack.com
+- Email: srobi116@uncc.edu
+- Twitter: @sean_k_robinson
+- Office Hours: End of Class and via [Calendly](calendly.com/seankrobinson)
+- Slack: dsba6520summer2021.slack.com
 
 ### Course
 -  Tuesdays
