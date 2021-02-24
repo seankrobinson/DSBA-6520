@@ -1,18 +1,48 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
+import base64
+from pathlib import Path
 from data.create_data import create_table
 
+def img_to_bytes(img_path):
+    img_bytes = Path(img_path).read_bytes()
+    encoded = base64.b64encode(img_bytes).decode()
+    return encoded
+
+
 def app():
-    st.title('Home')
+    header_html = "<img src='data:image/svg;base64,{}' class='img-fluid' style='width:698px;height:200px;'>".format(
+        img_to_bytes("assets/Network_Science_Class_Logo.png")
+    )
+    st.markdown(
+        header_html, unsafe_allow_html=True,
+    )
+    st.markdown("<h1 style='text-align: center;'>Summer I & II 2021</h1>", unsafe_allow_html=True)
 
-    st.write("This is a sample home page in the mutliapp.")
-    st.write("See `apps/home.py` to know how to use it.")
+    col1, col2 = st.beta_columns(2)
 
-    st.markdown("### Sample Data")
-    df = create_table()
-    st.write(df)
+    col1.markdown('''
+    ## Sean K. Robinson
+    ### Contact Information:
+    - Email: srobi116@uncc.edu
+    - Twitter: [@sean_k_robinson](http://twitter.com/sean_k_robinson)
+    - LinkedIn: [in/seankrobinson](linkedin.com/in/seankrobinson)
+    - Office Hours: End of Class and via [Calendly](calendly.com/seankrobinson)
+    
+    ![Alt Text](https://dist.neo4j.com/wp-content/uploads/20180911045136/KeyLines-Neo4j-visualization-9-sm.gif)
+    
+    from Dan Williams' 2018 [post](https://neo4j.com/blog/5-ways-to-tackle-big-graph-data-keylines-neo4j/)
+    ''')
 
-    st.write('Navigate to `Data Stats` page to visualize the data')
+    col2.text('')
+    col2.markdown('''
+    ### Course Info
+    -  Tuesdays
+    -  May 24 – Aug. 9, 2021
+    -  5:30-9:15 PM
+    -  [Canvas](canvas.uncc.edu)
+    -  [Class Slack](dsba6520summer2021hq.slack.com)
+    -  [Zoom](https://uncc.zoom.us/j/98668768190?pwd=bGZCcDl0a0NTd3MyeVVSZnRVaVQyZz09)
+    ''')
+#TODO: Update Canvas URL
 
 
