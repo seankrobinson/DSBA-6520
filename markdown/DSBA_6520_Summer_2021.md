@@ -5,16 +5,17 @@
 ### Sean K. Robinson
 ### Contact Information:
 - Email: srobi116@uncc.edu
-- Twitter: @sean_k_robinson
+- Twitter: [@sean_k_robinson](http://twitter.com/sean_k_robinson)
+- LinkedIn: [in/seankrobinson](linkedin.com/in/seankrobinson)
 - Office Hours: End of Class and via [Calendly](calendly.com/seankrobinson)
-- Slack: dsba6520summer2021.slack.com
 
 ### Course
 -  Tuesdays
 -  May 24 – Aug. 9, 2021
 -  5:30-9:15 PM
--  Zoom Link
--  Slack
+-  [Canvas](canvas.uncc.edu)
+-  [Class Slack](dsba6520summer2021hq.slack.com)
+-  [Zoom](https://uncc.zoom.us/j/98668768190?pwd=bGZCcDl0a0NTd3MyeVVSZnRVaVQyZz09)
 
 ### Course Description
 Throughout our lives, we encounter data with various degrees of structure which can be relied upon when attempting to make systematic or algorithmic evaluations of that data. And it is the structure (or lack thereof) of that data which determines what algorithms or operations can be performed on said data, and by extension, what insights can be gained.
@@ -114,10 +115,10 @@ Extra Credit can be earned in one of two ways
 | Assignment | Points (+Extra Credit)| % of Total Grade |
 |:--|:--|:--|
 | Homeworks | 50 | 5% |
-| Midterm | 200 | 20% |
-| Final Exam | 200 | 20% |
-| Project Deliverable I | 50 | 5% |
+| Midterm | 150 | 15% |
+| Final Exam | 150 | 15% |
+| Project Deliverable I | 100 | 10% |
 | Project Deliverable II | 100 (+5) | 10% |
 | Project Deliverable III | 100 (+5) | 10% |
 | Project Deliverable IV | 100 (+5) | 10% |
-| Final Project | 200 (+100)(+10) | 20% |
+| Final Project | 250 (+100)(+10) | 25% |
