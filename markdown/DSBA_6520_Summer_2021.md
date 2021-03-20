@@ -6,15 +6,15 @@
 ### Contact Information:
 - Email: srobi116@uncc.edu
 - Twitter: [@sean_k_robinson](http://twitter.com/sean_k_robinson)
-- LinkedIn: [in/seankrobinson](linkedin.com/in/seankrobinson)
-- Office Hours: End of Class and via [Calendly](calendly.com/seankrobinson)
+- LinkedIn: [in/seankrobinson](https://linkedin.com/in/seankrobinson)
+- Office Hours: End of Class and via [Calendly](https://calendly.com/seankrobinson)
 
 ### Course
 -  Tuesdays
 -  May 24 – Aug. 9, 2021
 -  5:30-9:15 PM
--  [Canvas](canvas.uncc.edu)
--  [Class Slack](dsba6520summer2021hq.slack.com)
+-  [Canvas](https://canvas.uncc.edu)
+-  [Class Slack](https://dsba6520summer2021hq.slack.com)
 -  [Zoom](https://uncc.zoom.us/j/98668768190?pwd=bGZCcDl0a0NTd3MyeVVSZnRVaVQyZz09)
 
 ### Course Description
@@ -64,7 +64,7 @@ The recommended books are:
 ### Tools & Technologies
 Throughout this class we will use a variety of tools to interact with networks and graphs at every level. From diagraming data, to database storage, to visualization and machine learning. Students are welcome to use any technologies which allow them to fully complete the project prompts. There are two exceptions to this rule which are required and detailed below.
 #### draw.io
-[draw.io](draw.io) will be used to submit all graph data modeling  and designs for this class. Students are welcome to design via pen & paper or a whiteboard to formulate ideas but all final submissions to canvas must be done through draw.io diagrams for the purposes of cleanliness and uniformity.
+[draw.io](https://draw.io) will be used to submit all graph data modeling  and designs for this class. Students are welcome to design via pen & paper or a whiteboard to formulate ideas but all final submissions to canvas must be done through draw.io diagrams for the purposes of cleanliness and uniformity.
 #### Neo4J
 While Neo4J and its adjacent plugins can be used for the entirety of a project, it is only required to be used for the database section of the course. Should students choose to use alternative technologies for other sections of the course, those technologies should be compatible with Neo4J and source any data used as such.
 

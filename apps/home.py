@@ -24,9 +24,9 @@ def app():
     ## Sean K. Robinson
     ### Contact Information:
     - Email: srobi116@uncc.edu
-    - Twitter: [@sean_k_robinson](http://twitter.com/sean_k_robinson)
-    - LinkedIn: [in/seankrobinson](linkedin.com/in/seankrobinson)
-    - Office Hours: End of Class and via [Calendly](calendly.com/seankrobinson)
+    - Twitter: [@sean_k_robinson](https://twitter.com/sean_k_robinson)
+    - LinkedIn: [in/seankrobinson](https://linkedin.com/in/seankrobinson)
+    - Office Hours: End of Class and via [Calendly](https://calendly.com/seankrobinson)
     
     ![Alt Text](https://dist.neo4j.com/wp-content/uploads/20180911045136/KeyLines-Neo4j-visualization-9-sm.gif)
     
@@ -39,8 +39,8 @@ def app():
     -  Tuesdays
     -  May 24 – Aug. 9, 2021
     -  5:30-9:15 PM
-    -  [Canvas](canvas.uncc.edu)
-    -  [Class Slack](dsba6520summer2021hq.slack.com)
+    -  [Canvas](https://canvas.uncc.edu)
+    -  [Class Slack](https://dsba6520summer2021hq.slack.com)
     -  [Zoom](https://uncc.zoom.us/j/98668768190?pwd=bGZCcDl0a0NTd3MyeVVSZnRVaVQyZz09)
     ''')
 #TODO: Update Canvas URL
