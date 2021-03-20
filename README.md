@@ -1,46 +1,15 @@
-# streamlit-multiapps
-A simple framework in python to create multi page web application using streamlit.
+# DSBA 6520: Network Science <img src="./assets/Network_Science_Class_Logo.png" align="right" />
 
-# How to Run
+This repository contains the code for generating the course website for UNCC DSBA-6520.
 
-1. Clone the repository:
-```
-$ git clone git@github.com:upraneelnihar/streamlit-multiapps
-$ cd streamlit-multiapps
-```
+## Attribution
 
-2. Install dependencies:
-```
-$ pip install -r requirements.txt
-```
+This framework was originally forked from Praneel Nihar's [streamlit-multiapps](https://github.com/upraneelnihar/streamlit-multiapps).
 
-3. Start the application:
-```
-streamlit run app.py
-```
+Much thanks goes Ryan Wesslen for his [Visual Analytics course website](https://github.com/wesslen) which serves as the basis for this app.
+    
+## License
 
-# How to add new app
+<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
 
-1. Add a new python file in `apps/`  folder with a function named `app`.
-
-```
-# apps/new_app.py
-
-import streamlit as st
-
-def app():
-    st.title('New App')
-```
-
-2. Now add it to `app.py`
-
-```
-from apps import newapp # import your app modules here
-
-app = MultiApp()
-
-# Add all your application here
-app.add_app("New App", newapp.app)
-```
-
-That's it your new app is added to your application and is live in default browser.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
