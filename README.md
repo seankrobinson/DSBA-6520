@@ -1,4 +1,6 @@
-# DSBA 6520: Network Science <img src="./assets/Network_Science_Class_Logo.png" align="right" />
+# <img src="./assets/Network_Science_Class_Logo.png" align="right" />
+
+
 
 This repository contains the code for generating the course website for UNCC DSBA-6520.
 
