@@ -1,1 +1,1 @@
-web: pwd && ls -a -l
+web: streamlit run app.py
