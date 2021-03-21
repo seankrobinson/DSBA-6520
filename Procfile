@@ -1,1 +1,1 @@
-web: cd DSBA-6520 && streamlit run app.py
+web: cd pwd && ls -a -l
