@@ -1,1 +1,1 @@
-web: cd pwd && ls -a -l
+web: pwd && ls -a -l
