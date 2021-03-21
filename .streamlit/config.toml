@@ -1,4 +1,4 @@
-# Below are all the sections and options you can have in ~/.streamlit/config.toml.
+# last updated 2021-03-12
 
 [global]
 
@@ -11,17 +11,15 @@ disableWatchdogWarning = false
 # Default: true
 showWarningOnDirectExecution = true
 
-
 [logger]
 
 # Level of logging: 'error', 'warning', 'info', or 'debug'.
 # Default: 'info'
-level = "info"
+level = "debug"
 
 # String format for logging messages. If logger.datetimeFormat is set, logger messages will default to `%(asctime)s.%(msecs)03d %(message)s`. See [Python's documentation](https://docs.python.org/2.6/library/logging.html#formatter-objects) for available attributes.
 # Default: None
-messageFormat = "%(asctime)s %(message)s"
-
+messageFormat = "%(asctime)s %(levelname) -7s %(name)s: %(message)s"
 
 [client]
 
@@ -38,7 +36,6 @@ displayEnabled = true
 # Default: true
 showErrorDetails = true
 
-
 [runner]
 
 # Allows you to type a variable or string by itself in a single line of Python code to write it to the app.
@@ -52,7 +49,6 @@ installTracer = false
 # Sets the MPLBACKEND environment variable to Agg inside Streamlit to prevent Python crashing.
 # Default: true
 fixMatplotlib = true
-
 
 [server]
 
@@ -69,11 +65,11 @@ fileWatcherType = "auto"
 
 # Symmetric key used to produce signed cookies. If deploying on multiple replicas, this should be set to the same value across all replicas to ensure they all share the same secret.
 # Default: randomly generated secret key.
-cookieSecret = "c972facefe4815501aa733670c7fad0ddfb93cf21213366d4ebacd921ee19e71"
+cookieSecret = "f8b7582082c5a4903916139e55a911170246459cdd73190983f806b7fc81623e"
 
 # If false, will attempt to open a browser window on start.
 # Default: false unless (1) we are on a Linux box where DISPLAY is unset, or (2) server.liveSave is set.
-headless = true
+headless = false
 
 # Automatically rerun script when the file is modified on disk.
 # Default: false
@@ -109,7 +105,6 @@ maxUploadSize = 200
 # Default: true
 enableWebsocketCompression = true
 
-
 [browser]
 
 # Internet address where users should point their browsers in order to connect to the app. Can be IP address or DNS name and path.
@@ -126,13 +121,11 @@ gatherUsageStats = true
 # Default: whatever value is set in server.port.
 serverPort = 8501
 
-
 [mapbox]
 
 # Configure Streamlit to use a custom Mapbox token for elements like st.pydeck_chart and st.map. To get a token for yourself, create an account at https://mapbox.com. It's free (for moderate usage levels)!
 # Default: ""
 token = ""
-
 
 [deprecation]
 
@@ -152,7 +145,6 @@ showImageFormat = "True"
 # Set to false to disable the deprecation warning for using the global pyplot instance.
 # Default: "True"
 showPyplotGlobalUse = "True"
-
 
 [s3]
 
@@ -187,6 +179,7 @@ keyPrefix = ""
 # Leave unset to use your default profile.
 # Default: (unset)
 #profile =
+
 
 [theme]
 primaryColor="#10543d"
