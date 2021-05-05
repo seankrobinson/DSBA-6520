@@ -1,6 +1,14 @@
 import streamlit as st
+import os
 from multiapp import MultiApp
 from apps import home, assignments, schedule, syllabus # import your app modules here
+from PIL import Image
+
+favicon = Image.open(os.path.join('assets', 'UNCC_favicon.jpeg'))
+st.set_page_config(
+    page_title="DSBA-6520",
+    page_icon=favicon,
+    initial_sidebar_state="expanded")
 
 app = MultiApp()
 
