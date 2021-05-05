@@ -16,7 +16,7 @@ relate directly to your Project Deliverables and so completing them effectively 
 
 ### Course Project
 The majority of the work in this course is centered around your course project, which can later serve as a portfolio 
-piece for t. For this project, you will choose a 
+piece for your work. For this project, you will choose a 
 dataset and corresponding business use case which is formed around this dataset. You will have until the first project
 deliverable submission to finalize your data set and use case. Be mindful of your dataset selection as it must serve you
 throughout the semester. If it is too simple, it may be difficult to analyze in a multitude of ways, if it is too 
