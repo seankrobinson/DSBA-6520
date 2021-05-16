@@ -35,8 +35,8 @@ In this course, you will
 
 | Date | Topic | Due Before Class |
 |:--|:--|:--|
-| 5/25 | Intro to Graphs & Networks |  |
-| 6/1 |  NO CLASS | Class Survey |
+| 5/25 | Intro to Graphs & Networks | |
+| 6/1 |  NO CLASS | |
 | 6/8 | Graphs & Networks cont. / Graph Algorithms| Homework I |
 | 6/15 | Graph Algorithms cont. / Graph Databases | Project Deliverable I |
 | 6/22 | Graph Databases cont.| Homework II |
