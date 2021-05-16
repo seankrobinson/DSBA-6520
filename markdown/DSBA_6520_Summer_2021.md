@@ -44,9 +44,9 @@ In this course, you will
 | 7/6 | Exam, Introduction to Graph Machine Learning |  |
 | 7/13 | Graph Machine Learning cont. | Project Deliverable III |
 | 7/20 | Utilization of Network Science | Homework III |
-| 7/27 | Open Week | Project Deliverable IV |
-| 8/3 | Presentations |
-| 8/9 |  | Final Project Due |
+| 7/27 | Presentations / Open Week | Project Deliverable IV |
+| 8/3 | Presentations / Last Day of Class |
+| 8/9 | Final Project Due | |
 
 ### Syllabus Subject to Change
 The standards and requirements set forth in this syllabus may be modified by the course instructor. Notice of such changes will be made in advance and by announcement in class.
