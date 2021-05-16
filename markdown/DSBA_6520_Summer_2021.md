@@ -71,9 +71,9 @@ While Neo4J and its adjacent plugins can be used for the entirety of a project, 
 ### Online help and Slack
 Computer programming can be difficult. Computers are stupid and little errors in your code can cause hours of headache (even if you’ve been doing this stuff for years!).
 
-Fortunately there are tons of online resources to help you with this. One the most important is StackOverflow (a Q&A site with hundreds of thousands of answers to all sorts of programming questions)
+Fortunately there are tons of online resources to help you with this. One the most important is StackOverflow (a Q&A site with hun********dreds of thousands of answers to all sorts of programming questions)
 
-Additionally, we have a class chatroom on Slack where anyone in the class can ask questions and anyone can answer. Ask questions about the readings, problem sets, and projects in the class Slack workspace. I will monitor Slack regularly, and you should also all do so as well. You’ll likely have similar questions as your peers, and you’ll likely be able to answer other peoples’ questions too.
+Additionally, we have a class chatroom on Slack where anyone in the class can ask questions and anyone can answer. Ask questions about the readings, problem sets, and projects in the class Slack workspace. I will monitor Slack regularly, and I recommend you do so as well to stay updated. You’ll likely have similar questions as your peers, and you’ll likely be able to answer other peoples’ questions too.
 
 #### Order of operations for having your question answered
 1. Google it
