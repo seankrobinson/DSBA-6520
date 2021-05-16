@@ -24,11 +24,11 @@ In this class, you’ll learn how to use industry-standard algorithms, tools, an
 
 ### Course Objectives
 In this course, you will
-1.  Learn to wield the tools and technologies which are used to implement network science techniques
-2.  Implement graph analytics and machine learning on real data
-3.  Understand how graph theory and algorithms compliment  traditional data science
-4.  Gain hands-on experience taking exiting flat data and discovering the hidden graphs and information within it
-5.  Develop a substantial graph-based portfolio project
+1. Learn to wield the tools and technologies which are used to implement network science techniques
+2. Implement graph analytics and machine learning on real data
+3. Understand how graph theory and algorithms compliment  traditional data science
+4. Gain hands-on experience taking exiting flat data and discovering the hidden graphs and information within it
+5. Develop a substantial graph-based portfolio project
 
 
 ### Course Schedule (Subject to Change as Needed)
