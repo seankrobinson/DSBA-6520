@@ -41,7 +41,7 @@ In this course, you will
 | 6/15 | Graph Algorithms cont. / Graph Databases | Project Deliverable I |
 | 6/22 | Graph Databases cont.| Homework II |
 | 6/29 | Graph Visualization | Project Deliverable II |
-| 7/6 | Exam, Introduction to Graph Machine Learning |  |
+| 7/6 | Midterm / Introduction to Graph Machine Learning |  |
 | 7/13 | Graph Machine Learning cont. | Project Deliverable III |
 | 7/20 | Utilization of Network Science | Homework III |
 | 7/27 | Presentations / Open Week | Project Deliverable IV |
