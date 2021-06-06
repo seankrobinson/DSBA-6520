@@ -39,11 +39,11 @@ In this course, you will
 | 6/1 |  NO CLASS | |
 | 6/8 | Graphs & Networks cont. / Graph Algorithms| Homework I |
 | 6/15 | Graph Algorithms cont. / Graph Databases | Project Deliverable I |
-| 6/22 | Graph Databases cont.| Homework II |
+| 6/22 | Graph Databases cont.| |
 | 6/29 | Graph Visualization | Project Deliverable II |
 | 7/6 | Midterm / Introduction to Graph Machine Learning |  |
 | 7/13 | Graph Machine Learning cont. | Project Deliverable III |
-| 7/20 | Utilization of Network Science | Homework III |
+| 7/20 | Utilization of Network Science | |
 | 7/27 | Presentations / Open Week | Project Deliverable IV |
 | 8/3 | Presentations / Last Day of Class |
 | 8/9 | Final Project Due | |
@@ -114,7 +114,7 @@ Extra Credit can be earned in one of two ways
 
 | Assignment | Points (+Extra Credit)| % of Total Grade |
 |:--|:--|:--|
-| Homeworks | 50 | 5% |
+| Homework | 50 | 5% |
 | Midterm | 150 | 15% |
 | Final Exam | 150 | 15% |
 | Project Deliverable I | 100 | 10% |

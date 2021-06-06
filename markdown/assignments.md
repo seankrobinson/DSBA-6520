@@ -5,15 +5,6 @@ and engagement is key to a truly effective learning and experience. I will do my
 through things like examples, in-class exercises, or use cases, and in return I ask that you remain attentive, engaged, 
 and ask questions during class time.
 
-### Homework
-You will have three homework assignments focused on:
-- Graph Data Modeling  
-- Graph Algorithms
-- Graph Machine Learning
-
-These are designed to reinforce key concept which you will need as we build on them throughout the course. They will also
-relate directly to your Project Deliverables and so completing them effectively will make life easier down the road.
-
 ### Course Project
 The majority of the work in this course is centered around your course project, which can later serve as a portfolio 
 piece for your work. For this project, you will choose a 
